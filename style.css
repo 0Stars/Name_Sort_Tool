@@ -1,0 +1,49 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	font-family: 'Ubuntu', sans-serif;
+}
+
+input
+{
+	margin: 10px;
+}
+#display_name_with_commas
+{
+	border: 1px solid lightseagreen;
+    padding: 10px;
+	background-color: blue;
+	border-radius: 10px;
+    width: 50%;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#display_name_without_commas
+{
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body
+{
+	background-color: rgb(0, 181, 194);
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#new_update_button
+{
+	font-family: 'Ubuntu', sans-serif;
+}
